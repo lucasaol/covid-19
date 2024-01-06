@@ -1,0 +1,15 @@
+{
+    "name": "lucasdev/covid-19",
+    "description": "Dashboard from cases of COVID-19 in brazilian territoy.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lucas Andrade",
+            "email": "lucas@lucasdev.com.br"
+        }
+    ],
+    "require": {
+        "coffeecode/router": "^1.0",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
